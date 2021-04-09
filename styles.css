@@ -1,18 +1,49 @@
-<style> 
-            thirdDiv {
-                height: 600px;
-                width: 500px;
-                background-color: aquamarine;
-                padding: 50px;
-                border:cyan  20px;
-            } 
-            spanId {
-                font-size: 18px;
-                margin: 50px;
-                border: 100px;
-            }
-            divClass {
-                color: red
-            }
-        
-        </style>
+html{
+    width: 40%;
+}
+body{
+    width: 40%;
+    margin:auto
+}
+
+.thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: pink;
+    padding: 50px;
+    border:cyan;
+    border-width: 30px;
+              
+}
+
+.spanId{
+    font-size: 18px;
+    margin: 50px;
+    border: 100px;
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.divClass{
+    height: 300px;
+}
+
+h1{
+        color: rgb(1, 1, 3);
+}
+
+img{
+        width: 400px;
+}
+
+body{
+    background-image: url('https://branding.ifas.ufl.edu/media/brandingifasufledu/virtual-backgrounds/Squares.jpg');
+    background-size: cover;
+}
+div2 p{
+    font-size: 25px;
+}
+div2 p2{
+    font-size: 20px;
+}
